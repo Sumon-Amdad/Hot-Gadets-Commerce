@@ -1,0 +1,16 @@
+.card-img-top{
+    padding: 10px;
+}
+.cate-bg{
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+    border-radius: 0 25px;
+}
+.cate-go{
+   margin: 25px 0;
+}
+.order img{
+    width: 100%;
+}
+
+   
